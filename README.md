@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Email Spam Classification (Custom PyTorch LSTM)
 
 A robust Natural Language Processing project focused on detecting spam emails. Unlike projects that rely on pre-built Transformer libraries, this project features a deep learning data pipeline and a Dual-Layer Long Short-Term Memory (LSTM) recurrent neural network built entirely from scratch in PyTorch.
